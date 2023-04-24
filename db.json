@@ -6,6 +6,62 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "tsunode@mail.com",
+      "password": "$2a$10$tcuyAKblnOCch4P1yqeiG.0NogGy5OVsfFwBGPS5mfiCo2W8ZySn2",
+      "name": "tsunode",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Livro 1"
+    },
+    {
+      "id": 2,
+      "name": "Livro 2"
+    },
+    {
+      "id": 3,
+      "name": "Livro 3"
+    }
+  ],
+  "posts": [
+    {
+      "text": "Meu novo post",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "text": "Meu novo blog",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "text": "bla bla bla",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "text": "demo de hoje foi sobre",
+      "userId": 1,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "text": "maneiro esse post",
+      "postId": 3,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "text": "maneiro esse post",
+      "postId": 3,
+      "userId": 1,
+      "id": 2
     }
   ]
 }
