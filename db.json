@@ -7,16 +7,28 @@
       "id": 1
     },
     {
-      "email": "tsunode@mail.com",
-      "password": "$2a$10$tcuyAKblnOCch4P1yqeiG.0NogGy5OVsfFwBGPS5mfiCo2W8ZySn2",
-      "name": "tsunode",
+      "email": "manu@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Manu",
       "id": 2
+    },
+    {
+      "email": "daniele@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Daniele",
+      "id": 3
+    },
+    {
+      "email": "leonardo@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Leonardo",
+      "id": 4
     },
     {
       "email": "odair@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Odair",
-      "id": 3
+      "id": 5
     }
   ],
   "recipes": [
@@ -25,48 +37,75 @@
       "image": "https://static.itdg.com.br/images/1200-675/1b388cd05b842609f91603072d894643/pao-de-queijo-facil-e-delicioso.png",
       "title": "Pão de Queijo",
       "ingredients": ["3 ovos", "400g de Polvilho", "1/2 xic. de Leite", "1/2 xic. de Água", "1/2 xic. de Óleo de soja", "300g de Queijo colonial", "Sal a gosto"],
-      "directions": ["Ferva juntos a água, o leite, o óleo e o sal.", "Em uma vasilha, coloque o polvilho e despeje os itens fervidos em cima, misturando até ficar uma farofa.", "Acrescente os ovos e bata em uma batedeira planetária ou misture bem com as mãos.", "Rale o queijo e misture tudo", "Faça bolinhas e coloque em uma assadeira deixando um espaço entre elas.","Asse por aproximadamente 30 minutos ou até dourarem e aumentarem de tamanho."],
-      "userId": 3      
-    }
-  ],
-  "comments": [
-    {
-      "text": "Receita Top",
-      "recipeId": 1,
-      "userId": 1,
-      "id": 1
+      "directions": "Ferva juntos a água, o leite, o óleo e o sal. Em uma vasilha, coloque o polvilho e despeje os itens fervidos em cima, misturando até ficar uma farofa. Acrescente os ovos e bata em uma batedeira planetária ou misture bem com as mãos. Rale o queijo e misture tudo. Faça bolinhas e coloque em uma assadeira deixando um espaço entre elas. Asse por aproximadamente 30 minutos ou até dourarem e aumentarem de tamanho.",
+      "userId": 5      
     },
     {
-      "text": "maneira essa receita",
-      "recipeId": 1,
-      "userId": 2,
-      "id": 2
+      "id": 2,
+      "image": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/11/06/1463976534-torta-pernil-liquidificador.jpg",
+      "title": "Torta de liquidificador",
+      "ingredients": ["1 ovo", "5 colheres (sopa) de queijo ralado", "1 colher (sobremesa) de fermento em pó", "1 xícara (chá) de leite", "1 pitada de sal", "6 colheres (sopa) de farinha de trigo", "1 pitada de orégano", "1/2 cebola", "1/2 xícara (chá) de óleo"],
+      "directions": "Bata todos os ingredientes no liquidificador até que a massa esteja firme e encorpada. Para uma massa mais consistente, acrescente mais uma porção de farinha de trigo. Unte uma forma com óleo e despeje metade da massa até cobrir todo o fundo. Em seguida, acrescente um recheio de sua escolha e cubra com o restante da massa. Asse em forno médio (180° C), preaquecido, por 30 minutos.",
+      "userId": 3      
+    },
+    {
+      "id": 3,
+      "image": "https://www.saborbrasil.it/wp-content/uploads/2021/06/Bolinho-de-arroz.jpg",
+      "title": "Bolinho de arroz",
+      "ingredients": ["2 xícaras (chá) de arroz cozido", "1/2 xícara (chá) de leite", "1 colher (sopa) de fermento em pó", "1/2 xícara (chá) de farinha de trigo", "óleo para fritar", "1/2 xícara (chá) de queijo ralado", "2 colheres (sopa) de cheiro-verde picado", "1/2 xícara (chá) de amido de milho", "3 ovos"],
+      "directions": "Em um recipiente, misture todos os ingredientes até criar uma massa firme e encorpada. Molde os bolinhos e frite-os no óleo quente, até que fiquem dourados. Escorra sobre papel absorvente.",
+      "userId": 2      
+    },
+    {
+      "id": 4,
+      "image": "https://anamariabraga.globo.com/wp-content/uploads/2019/08/costela-suina-com-barbecue.jpg",
+      "title": "Costelinha com molho barbecue",
+      "ingredients": ["2 kg costelinhas de porco aferventadas em água quente", "1 colher (sopa) óleo", "1/2 xícara (chá) açúcar mascavo", "2 colheres (sopa) molho inglês", "1 folha de louro", "1/2 xícara (chá) água", "2 colheres (sopa) cebola picada", "1/2 xícara (chá) vinagre branco", "2 xícaras (chá) catchup","1 colher (sopa) chilli em pó", "Sal e pimenta do reino a gosto"],
+      "directions": "Espalhe sal por toda a carne e coloque para ferver por 10 minutos em um panela com bastante água quente. Escorra a água, arrume as costelinhas em uma assadeira, cubra com papel alumínio e leve ao forno baixo ( 180º) por 40 minutos. Em uma panela, refogue a cebola no óleo, acrescente o açúcar mascavo e o vinagre e deixe o açúcar dissolver. Acrescente o molho inglês, o catchup, o louro, o chilli em pó e a água e cozinhe por 30 minutos em fogo baixo ou até o molho engrossar. Tempere com sal e pimenta-do-reino, coe e reserve. Após os 40 minutos retire as costelinhas do forno, retire o papel alumínio e pincele com o molho. Aumente a temperatura do forno, asse as costelinhas por mais 10 minutos, pincele novamente com o molho, asse mais 5 minutos e repita mais uma vez esta operação.",
+      "userId": 1      
+    },
+    {
+      "id": 5,
+      "image": "https://vitarella.com.br/wp-content/uploads/2020/12/Vitarella-Receitas9696-min-600x535.jpg",
+      "title": "Macarrão à carbonara",
+      "ingredients": ["bacon picado a gosto", "3 ovos", "pimenta-do-reino a gosto", "creme de leite se quiser dar um toque diferente à receita", "queijo ralado a gosto", "sal", "macarrão de sua escolha (espaguete, fusili,etc.)"],
+      "directions": "Frite bem o bacon, até ficar crocante (pode-se adicionar salame picado). Coloque o macarrão para cozinhar em água e sal. No refratário onde será servido o macarrão, bata bem os ovos com um garfo. Tempere com sal e pimenta a gosto, e junte o queijo ralado, também a gosto. Quando o macarrão estiver pronto, escorra e coloque (bem quente) sobre a mistura de ovos, misture bem. O calor da massa cozinha os ovos. Coloque o bacon, ainda quente, sobre o macarrão e sirva.",
+      "userId": 4      
+    },
+    {
+      "id": 6,
+      "image": "https://revistadeguste.com/wp-content/uploads/2022/08/Risoto-caprese-na%CC%83o-leva-protei%CC%81na-animal-ale%CC%81m-do-queijo-scaled.jpg",
+      "title": "Risoto caprese",
+      "ingredients": ["1 colher (sopa) de manteiga", "1 xícara de arroz arbóreo ou carnarolli", "caldo de legumes ou de frango quanto baste (cerca de 1 litro)", "1 burrata ou 200g de mussarela de búfala", "2 colher (sopa) manteiga gelada", "sal e pimenta-do-reino a gosto", "1 fio de azeite", "3/4 xícara de vinho branco seco", "1/2 lata de tomate pelado picado", "1/2 xc de parmesão ralado na hora", "folha de manjericão a gosto"],
+      "directions": "Deixe o caldo sempre aquecido durante o preparo. Derreta a manteiga com o fio de azeite e refogue a cebola até ficar transparente. Não deixe queimar. Junte o arroz e deixe-o absorver toda essa gordura, mexendo sempre. Não pode agarrar. Adicione o vinho e vá mexendo com carinho até evaporar o álcool. Coloque 2 conchas do caldo e mexa sempre. Acrescente o tomate pelado picado com mais 2 conchas de caldo e mexa bem. Verifique se o arroz já está al dente. Se estiver, acrescente o parmesão ralado e a manteiga gelada. Incorpore tudo e jogue o manjericão. Sirva com a burrata colocada no meio da panela. Caso use mussarela de búfala de bolinha, distribua na panela.",
+      "userId": 5      
     }
   ],
   "favorites": [
     {
       "recipeId": 1,
-      "userId": 1,
+      "userId": 3,
       "id": 1
     },
     {
-      "recipeId": 1,
-      "userId": 2,
-      "id": 2
-    }
-  ],
-  "ratings": [
-    {
-      "recipeId": 1,
+      "recipeId": 2,
       "userId": 1,
-      "rating": 5,
-      "id": 1
+      "id": 2
     },
     {
-      "recipeId": 1,
+      "recipeId": 3,
       "userId": 2,
-      "rating": 5,
-      "id": 2
+      "id": 3
+    },
+    {
+      "recipeId": 4,
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "recipeId": 5,
+      "userId": 4,
+      "id": 5
     }
   ]
 }
