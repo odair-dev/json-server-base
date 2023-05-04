@@ -74,10 +74,10 @@
     },
     {
       "id": 6,
-      "image": "https://revistadeguste.com/wp-content/uploads/2022/08/Risoto-caprese-na%CC%83o-leva-protei%CC%81na-animal-ale%CC%81m-do-queijo-scaled.jpg",
-      "title": "Risoto caprese",
-      "ingredients": ["1 colher (sopa) de manteiga", "1 xícara de arroz arbóreo ou carnarolli", "caldo de legumes ou de frango quanto baste (cerca de 1 litro)", "1 burrata ou 200g de mussarela de búfala", "2 colher (sopa) manteiga gelada", "sal e pimenta-do-reino a gosto", "1 fio de azeite", "3/4 xícara de vinho branco seco", "1/2 lata de tomate pelado picado", "1/2 xc de parmesão ralado na hora", "folha de manjericão a gosto"],
-      "directions": "Deixe o caldo sempre aquecido durante o preparo. Derreta a manteiga com o fio de azeite e refogue a cebola até ficar transparente. Não deixe queimar. Junte o arroz e deixe-o absorver toda essa gordura, mexendo sempre. Não pode agarrar. Adicione o vinho e vá mexendo com carinho até evaporar o álcool. Coloque 2 conchas do caldo e mexa sempre. Acrescente o tomate pelado picado com mais 2 conchas de caldo e mexa bem. Verifique se o arroz já está al dente. Se estiver, acrescente o parmesão ralado e a manteiga gelada. Incorpore tudo e jogue o manjericão. Sirva com a burrata colocada no meio da panela. Caso use mussarela de búfala de bolinha, distribua na panela.",
+      "image": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/02/27105603/Imagem-Destacada.jpg",
+      "title": "Salada Caprese",
+      "ingredients": ["2 Tomates", "250g de Mussarela de búfala", "15g de azeite de oliva", "5 folhas de manjericão", "1/4 colher de chá de orégano", "sal a gosto"],
+      "directions": "Lave e seque os tomates e as folhas de manjerição com muito cuidado. Retire a mussarela da refrigeração 5 minutos antes do ínicio do preparo. Corte os tomates e a mussarela em fatias, em seguida, regue com azeite de oliva e polvilhe o orégano e sal.",
       "userId": 5      
     }
   ],
